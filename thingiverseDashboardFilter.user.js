@@ -3,7 +3,7 @@
 // @description  Keep likes and collections from clogging your Thingiverse feed
 // @author       Adrian Kelly
 // @namespace    https://github.com/ahalekelly/thingiverseDashboardFilter
-// @downloadURL  https://github.com/ahalekelly/thingiverseDashboardFilter/thingiverseDashboardFilter.user.js
+// @downloadURL  https://github.com/ahalekelly/thingiverseDashboardFilter/raw/master/thingiverseDashboardFilter.user.js
 // @match        https://www.thingiverse.com/dashboard
 // @run-at       document-idle
 // @grant        none
